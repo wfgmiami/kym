@@ -1,0 +1,56 @@
+[ {
+  "user_id": 1,
+  "goals": {
+    "rest": [ {
+      "protein": 33.3,
+      "carbs": 29.3,
+      "fat": 13.1
+    }, {
+      "protein": 33.3,
+      "carbs": 29.3,
+      "fat": 13.1
+    }, {
+      "protein": 88.2,
+      "carbs": 77.8,
+      "fat": 34.7
+    }, {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }, {
+      "protein": 73.2,
+      "carbs": 64.6,
+      "fat": 28.8
+    }, {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    } ],
+    "train": [ {
+      "protein": 63.3,
+      "carbs": 79.5,
+      "fat": 29.9
+    }, {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }, {
+      "protein": 95,
+      "carbs": 119.2,
+      "fat": 44.8
+    }, {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }, {
+      "protein": 69.7,
+      "carbs": 87.4,
+      "fat": 32.8
+    }, {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    } ]
+  }
+} ]
+

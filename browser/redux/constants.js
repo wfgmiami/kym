@@ -1,0 +1,36 @@
+// foodrecord.js
+export const ADD_MEAL = 'ADD_MEAL';
+export const CHANGE_DAY = 'CHANGE_DAY';
+export const RECEIVE_FOOD_SEARCH_RESULT = 'RECEIVE_FOOD_SEARCH_RESULT';
+export const RECEIVE_FOOD_RECORD = 'RECEIVE_FOOD_RECORD';
+export const RECEIVE_PROGRAMS = 'RECEIVE_PROGRAMS';
+export const RECEIVE_USER = 'RECEIVE_USER';
+export const REMOVE_FOOD_RECORD_ITEM = 'REMOVE_FOOD_RECORD_ITEM';
+
+export const REQUEST_DATA = 'REQUEST_DATA';
+
+// auth.js
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const INVALID_LOGIN = 'INVALID_LOGIN';
+
+// mealplanner.js
+export const LOAD_SEARCHED_FOODS = 'LOAD_SEARCHED_FOODS';
+export const RETAIN_FOOD = 'RETAIN_FOOD';
+export const REMOVE_FOOD = 'REMOVE_FOOD';
+export const CALCULATE_MEAL_SUCCESS = 'CALCULATE_MEAL_SUCCESS';
+export const CALCULATE_MEAL_ERROR = 'CALCULATE_MEAL_ERROR';
+
+// fpdietgenerator.js
+export const GENERATE_FOOD_SUCCESS = 'GENERATE_FOOD_SUCCESS';
+export const GENERATE_FOOD_ERROR = 'GENERATE_FOOD_ERROR';
+
+// shoppinglist.js
+export const ADD_DAY = 'ADD_DAY';
+
+// root.js
+export const UPDATE_RECORD = 'UPDATE_RECORD';
+export const CONFIRM_RECORD = 'CONFIRM_RECORD';
+export const CREATE_PROGRAM = 'CREATE_PROGRAM';
+export const RECEIVE_MEASUREMENTS = 'RECEIVE_MEASUREMENTS';
+export const RECEIVE_GOALS = 'RECEIVE_GOALS';

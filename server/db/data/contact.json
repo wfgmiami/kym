@@ -1,0 +1,43 @@
+[
+  {
+    "firstname": "Richard",
+    "lastname": "Lucas",
+    "username": "Richard",
+    "email": "lucas1richard@gmail.com",
+    "password": "1234",
+    "gender": "Male",
+    "height": "73.25",
+    "h_unit": "Inches",
+    "weight": "187",
+    "w_unit": "Pounds",
+    "bodyfat": "19",
+    "lifestyle": "Sedentary",
+    "goal": "Lose Fat",
+    "birthdate": "1989-06-02",
+    "initialtour": true,
+    "Date": "2017-01-15",
+    "active": true,
+    "Terms": true
+  },
+    {
+    "firstname": "Aleksandar",
+    "lastname": "Penchev",
+    "username": "alek",
+    "email": "apenchev@gmail.com",
+    "password": "123",
+    "gender": "Male",
+    "height": "69",
+    "h_unit": "Inches",
+    "weight": "150",
+    "w_unit": "Pounds",
+    "bodyfat": "10",
+    "lifestyle": "Active",
+    "goal": "Maintain shape",
+    "birthdate": "1974-04-28",
+    "initialtour": true,
+    "Date": "2017-05-20",
+    "active": true,
+    "Terms": true
+  }
+]
+
